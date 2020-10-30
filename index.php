@@ -8,7 +8,7 @@
         <img src="supercat.jpg">
         <img src="d21.jpg">
         <a href="https://www.facebook.com/">This is a Link Facebook</a>
-        <a herf="https://www.youtube.com/">This is a Link Youtube</a>
+        <a href="https://www.youtube.com/">This is a Link Youtube</a>
         <h3>เรื่องตลก</h3>
         <p>ในขณะที่ผมกำลังนั่งกิน KFC
             
