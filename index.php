@@ -5,8 +5,8 @@
     <body>
         <h1>นาย พิทวัท นุชคง</h1>
         <h2>ชื่อเล่น ฟิล์ม</h2>
-        <img src="supercat.jpg">
-        <img src="d21.jpg">
+        <img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+        <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
         <a href="https://www.facebook.com/">This is a Link Facebook</a>
         <a href="https://www.youtube.com/">This is a Link Youtube</a>
         <h3>เรื่องตลก</h3>
