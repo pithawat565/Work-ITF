@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Topic</title>
+        <title>ชื่อ</title>
     </head>
     <body>
         <h1>นาย พิทวัท นุชคง</h1>
